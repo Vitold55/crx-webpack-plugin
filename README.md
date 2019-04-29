@@ -1,4 +1,4 @@
-# Crx Builder for webpack
+# Crx Builder for webpack (fixed for NodeJs10)
 A webpack plugin to package chrome extensions (crx) post build
 
 ## Usage
