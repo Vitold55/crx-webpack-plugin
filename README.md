@@ -4,7 +4,7 @@ A webpack plugin to package chrome extensions (crx) post build
 ## Usage
 
 ``` javascript
-var Crx = require("crx-webpack-plugin");
+var Crx = require("crx-webpack-plg");
 module.exports = {
 	plugins: [
 		new Crx({
